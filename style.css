@@ -42,3 +42,31 @@ footer {
     font-size: 14px;
     line-height: 1.6;
 }
+#discord-bot {
+    margin: 50px auto;
+    padding: 20px;
+    border: 2px solid #7289da; /* لون Discord */
+    border-radius: 10px;
+    width: 80%;
+    max-width: 500px;
+    text-align: center;
+}
+
+#discord-bot img {
+    border-radius: 50%;
+    margin-bottom: 15px;
+}
+
+#bot-info p {
+    margin: 5px 0;
+}
+
+#bot-commands button {
+    margin: 5px;
+    padding: 10px;
+    background: #7289da;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
